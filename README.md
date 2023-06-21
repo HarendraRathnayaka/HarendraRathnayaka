@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harendrarathnayaka&label=Profile%20views&color=0e75b6&style=flat" alt="harendrarathnayaka" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harendrarathnayaka" alt="harendrarathnayaka" width="100" height="100"/></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harendrarathnayaka" alt="harendrarathnayaka" width="50%" height="50%"/></a> </p>
 
 - 🔭 I’m currently studying on **SLIIT**
 
