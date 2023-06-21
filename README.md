@@ -1,5 +1,5 @@
 <img src="https://github.com/HarendraRathnayaka/HarendraRathnayaka/assets/127397899/980a081b-d067-484b-be72-c4823dd5968a" alt="web-development-company-in-kochi" width="45%" style="display:inline-block;">
-<img src="https://github.com/HarendraRathnayaka/HarendraRathnayaka/assets/127397899/38938714-fe11-4d2e-9317-a0671c5d619d" alt="full-stack-development" width="45%" height="120%" style="display:inline-block;">
+<img src="https://github.com/HarendraRathnayaka/HarendraRathnayaka/assets/127397899/38938714-fe11-4d2e-9317-a0671c5d619d" alt="full-stack-development" width="45%" height="12" style="display:inline-block;">
 
 <h1 align="center">Hi 👋, I'm Harendra Rathnayaka</h1>
 
