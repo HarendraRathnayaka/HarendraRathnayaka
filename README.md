@@ -1,4 +1,9 @@
+![web-development-company-in-kochi](https://github.com/HarendraRathnayaka/HarendraRathnayaka/assets/127397899/980a081b-d067-484b-be72-c4823dd5968a)
+![full-stack-development](https://github.com/HarendraRathnayaka/HarendraRathnayaka/assets/127397899/38938714-fe11-4d2e-9317-a0671c5d619d)
+
+
 <h1 align="center">Hi 👋, I'm Harendra Rathnayaka</h1>
+
 <h3 align="center">_. A passionate frontend and backend developer from Sri Lanka ._</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harendrarathnayaka&label=Profile%20views&color=0e75b6&style=flat" alt="harendrarathnayaka" /> </p>
