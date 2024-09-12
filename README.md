@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Harendra Rathnayaka</h1>
 
-<h3 align="center">_. A passionate frontend and backend developer from Sri Lanka ._</h3>
+<h3 align="center">_. The Cloud | DevOps | SRE enthusiast from Sri Lanka ._</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harendrarathnayaka&label=Profile%20views&color=0e75b6&style=flat" alt="harendrarathnayaka" /> </p>
 
@@ -11,17 +11,17 @@
 
 - 🔭 I’m currently studying on **SLIIT**
 
-- 🌱 I’m currently learning **MERN, Java, Javascript**
+- 🌱 I’m currently learning **AWS | AZURE | DevOps tools and techniques**
 
-- 👯 I’m looking to collaborate on **Web development**
+- 👯 I’m looking to collaborate on **DevOps engineering**
 
-- 🤝 I’m looking for help with **Web development**
+- 🤝 I’m looking for help with **DevOps engineering**
 
-- 💬 Ask me about **reactJS**
+- 💬 Ask me about **DevOps techniques**
 
 - 📫 How to reach me **rathnayakaharendra@gmail.com**
 
-- ⚡ Fun fact **I think I enjoy coding**
+- ⚡ Fun fact **I think I enjoy working and learn DevOps**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
